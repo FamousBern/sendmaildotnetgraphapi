@@ -1,0 +1,15 @@
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\bin\Debug\net7.0\dotnettut.exe
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\bin\Debug\net7.0\dotnettut.deps.json
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\bin\Debug\net7.0\dotnettut.runtimeconfig.json
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\bin\Debug\net7.0\dotnettut.dll
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\bin\Debug\net7.0\dotnettut.pdb
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.csproj.AssemblyReference.cache
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.AssemblyInfoInputs.cache
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.AssemblyInfo.cs
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.csproj.CoreCompileInputs.cache
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.dll
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\refint\dotnettut.dll
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.pdb
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\dotnettut.genruntimeconfig.cache
+C:\Users\BernardMwanza(KE)\Desktop\dotnettut\obj\Debug\net7.0\ref\dotnettut.dll
